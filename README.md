@@ -8,7 +8,7 @@ You can customize the "/friend" command itself and the aliases. See the [config.
 - ```/friend public``` | make your profile public
 - ```/friend private``` | make your profile private
 - ```/friend show``` | view your own profile
-- - ```/friend show <username>``` | view specified user's profile, if publicized
+- ```/friend show <username>``` | view specified user's profile, if publicized
 
 ## Config
 **Custom Categories**
