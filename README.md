@@ -12,6 +12,7 @@ LinkLobby is a plugin to easily learn more about other players! Learn more about
 ## Config
 **Custom Categories**
 By default, the categories are name, age, discord, status, gender, pronouns
+
 Steps to add custom categories.
 1. Load the plugin
 2. Locate the plugins/LinkLobby/linklCategories.txt file
