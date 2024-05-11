@@ -1,0 +1,8 @@
+name: LinkLobby
+version: '1.0-SNAPSHOT'
+main: me.rt.linklobby.LinkLobby
+api-version: '1.20'
+commands:
+  linkl:
+    description: Your description
+    usage: /linkl
